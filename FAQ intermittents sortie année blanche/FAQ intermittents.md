@@ -77,10 +77,10 @@ l'articulation avec les mesures de rattrapage décidées par le gouvernement. En
 2. Si échec du 1, recherche d’un droit ARE A8 ou 10 sur la PRA précédente + allongement exceptionnel par périodes de 30 jours, dans la limite des heures ayant servi à l’ouverture de droits précédente.
 3. Si échec du 2, recherche d’un droit ARE différent (régime général)
 4. En cas d'échec des 1 puis 2 puis 3, deux cas :
-    - Soit l’allocataire à PLUS de 338h d’affiliation dans le calcul 2 :
+    - Soit l’allocataire a PLUS de 338h d’affiliation dans le calcul 2 :
 		- ouverture de droits « clause de rattrapage aménagée »<sup>1</sup> sur demande expresse.
 		- Attention , si refus (ou non demande) pas d’ouverture possible en APS et orientation éventuelle vers l'allocation spécifique de solidarité (ASS, inaccessible dans la pratique pour les intermittents du spectacle) ou l'allocation fin de droits (AFD, très brève).
-	- Soit l’allocataire à moins de 338h d’affiliation dans le calcul 2 :
+	- Soit l’allocataire a moins de 338h d’affiliation dans le calcul 2 :
 		- ouverture de droits « APS aménagée » automatique
 
 En temps normal cet ordonnancement fonctionne pour déterminer le meilleur droit. Les arbitrages du gouvernement vont conduire à des absurdités en 2022.
