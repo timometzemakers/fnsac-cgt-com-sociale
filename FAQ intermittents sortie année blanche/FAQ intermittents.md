@@ -2,7 +2,7 @@
 
 ## Chapitre 1 : Questions sur le fonctionnement de l'allongement exceptionnel de la PRA pour les personnes qui n'ont pas leurs 507 heures sur 12 mois précédant la dernière FCT
 
-### Question 1.1
+### Question 1.1 {#question-1-1}
 **Les périodes assimilées (enseignement, formation, maladie, maternité) seront-elles comptabilisées hors des 12 mois initiaux ?**
 
 Oui.
@@ -12,14 +12,14 @@ Heures d'enseignement (formation donnée) à raison de 140 heures pour les moins
 Heures de congé maternité et congé maladie (seulement en affection de longue durée ALD, ou de plus de 3 mois) à raison de 5 heures par jour.
 
 
-### Question 1.2
+### Question 1.2 {#question-1-2}
 **L’allongement exceptionnel fonctionnera-t-il en remontant contrat par contrat, ou par période de 30 jours, comme le laisse entendre le point n°8 de l’article [Année blanche, prolongation des droits et réadmission : tout comprendre en 10 questions](https://www.pole-emploi.fr/spectacle/spectacle--intermittents/intermittents-du-spectacle--lall.html)**
 
 Si les 507 heures ne sont pas totalisées sur 12 mois, Pôle Emploi recherchera de mois en mois le nombre d'heures manquant pour atteindre le seuil de 507 heures.
 
 Exemple : mon dernier contrat est le 15 décembre 2021, en remontant sur 12 mois je n'ai que 500 heures. Pôle Emploi rallonge d'un mois la période et inclut un contrat de 8 heures effectué le 20 novembre 2020, soit 507 heures sur 13 mois.
 
-### Question 1.3
+### Question 1.3 {#question-1-3}
 **Dans le cas où Pôle Emploi remonte par période de 30 jours, doit-on comprendre que tous les
 contrats (et/ou périodes assimilés) qui se terminent dans la période des 30 jours considérés seront
 pris en compte, tant en heures qu’en salaire ?**
@@ -42,7 +42,7 @@ Les franchises sont elles aussi limitées à celles correspondant à 507 heures.
 de référence, SAR = 11500€ pour 540 heures de travail. Soit environ (507 / 540 ) x 11500 = 10797. Le droit sera déterminé en fonction de ce salaire reconstitué et
 de 507 heures.*
 
-### Question 1.4
+### Question 1.4 {#question-1-4}
 
 - **Comment établissez-vous - et quand ? - que les personnes, au 1er janvier 2022, ne seront ni sous contrat de travail, et toujours bien à la recherche d’un emploi ?**
 - **Faudra-t-il attendre début février pour lancer les procédures de renouvellement ?**
@@ -60,7 +60,7 @@ La nouvelle date anniversaire sera dans tous les cas fixée à la fin du dernier
 
 *Exemple 3 : je suis en congé maternité du 10/12/2021 au 25/4/2022 : au 1er janvier 2022 Pole Emploi ne pourra pas examiner ma situation. En revanche dès ma réinscription à Pole Emploi le 26/4, Pole Emploi examinera ma situation sur la base du dernier contrat de travail avant le congé, et puisque ma réinscription intervient avant le 30/4/2022, je pourrai bénéficier des mesures d’allongement propres à l’année blanche.*
 
-### Question 1.5
+### Question 1.5 {#question-1-5}
 
 **Quel est l'ordre de recherche de droits au 1er janvier 22, après demande de réexamen et actualisation de décembre ?**
 
@@ -91,7 +91,7 @@ En temps normal cet ordonnancement fonctionne pour déterminer le meilleur droit
 
 <sup>1</sup> Il est prévu en temps normal depuis 2016 une clause de rattrapage pour les allocataires de l’annexe 8 ou 10 qui ne remplissent pas la condition minimale de 507 heures sur 12 mois à la date anniversaire. Pour l’ouverture d’une nouvelle période d’indemnisation, l’intéressé peut demander par écrit le bénéfice de cette clause. Les conditions d’ancienneté sont suspendues jusqu’au 30 avril 2022. Si sa demande est acceptée et donc notifiée, l’intéressé sera indemnisé pendant au plus six mois pendant lesquels il percevra l’ARE de rattrapage égale au montant de sa dernière allocation journalière. La clause de rattrapage cesse de produire ses effets après ces six mois ou lorsque l’intermittent atteint les conditions d’affiliation. Cette clause prend effet après l’application du différé d’indemnisation, du délai d’attente et des franchises étant précisé que les allocations versées au cours de la clause de rattrapage sont une avance et donnent lieu à une régularisation sauf si l'intéressé n'ouvre pas de nouveaux droits à l'issue des six mois.
 
-### Question 1.6
+### Question 1.6 {#question-1-6}
 
 **La clause de rattrapage (CDR) et l’allocation de professionnalisation et de solidarité (APS) : quelles sont les conditions exceptionnelles en temps de Covid ?**
 
@@ -116,7 +116,7 @@ En temps normal cet ordonnancement fonctionne pour déterminer le meilleur droit
 
 	L’APS est versée entre le 1er janvier et le 31 décembre 2022, elle cesse d'être versée lorsque les conditions sont réunies pour basculer en ARE.
 	
-### Question 1.7
+### Question 1.7 {#question-1-7}
 
 **Focus sur le point n°9 de l’article [Année blanche, prolongation des droits et réadmission : tout comprendre en 10 questions](https://www.pole-emploi.fr/spectacle/spectacle--intermittents/intermittents-du-spectacle--lall.html), qui dit qu’on ne peut bénéficier de la clause de rattrapage si l’on a un droit au régime général.**
 
@@ -128,7 +128,7 @@ Pôle Emploi a publié une foire aux questions, pour tenter d’expliquer les di
 
 *Exemple 2 : dans la même situation j’ai travaillé 6 mois à mi-temps dans un supermarché pour gagner ma vie. De façon identique, Pôle Emploi va m’ouvrir un droit au régime général sur la base de ce CDD : 6 mois d’allocations calculées sur un salaire très faible. Sans ce CDD, je pouvais basculer en clause de rattrapage ou en APS.*
 
-### Question 1.8
+### Question 1.8 {#question-1-8}
 
 **Qu'est-il prévu pour éviter une ouverture de droits minime au régime général, à quelqu'un qui aurait eu droit à la clause de rattrapage ou à l'APS ? Qu’est-il prévu dans le cas où la clause de rattrapage aménagée est moins-disante par rapport à l’APS aménagée ?**
 
@@ -138,13 +138,13 @@ Nous revendiquons la suppression de l'ordonnancement pour que l'allocataire puis
 
 *Exemple 1 : j’ai travaillé 338 heures dans le spectacle, je peux opter pour la clause de rattrapage, qui ouvre droit à 6 mois d’allocations, plus 6 mois si j’arrive à travailler les 169 heures manquantes. Dans ce cas, je ne peux bénéficier de l’allocation de professionnalisation et de solidarité (APS), qui m’aurait ouvert un an de droits.*
 
-### Question 1.9
+### Question 1.9 {#question-1-9}
 
 **Que va-t-il se passer au 31/12/2021 pour ceux qui touchent actuellement la clause de rattrapage prolongée, et qui n'ont pas atteint les 507h ? Pourront-ils ouvrir des droits en APS ?**
 
 Oui. Pour les conditions de l’APS, voir réponse 1.6.
 
-### Question 1.10
+### Question 1.10 {#question-1-10}
 
 **Le délai de forclusion étant allongé des jours de restrictions, une personne devrait pouvoir ouvrir des droits tant qu'elle a eu une fin de contrat dans les 23 mois précédant le 31/12/2021, avec date anniversaire plancher au 30/4/2022. Mais d'après l'article 7 du décret du 14 avril 2020, cet allongement est amputé des jours de travail.
 
@@ -161,7 +161,7 @@ d’une ouverture de droits.
 terme est la veille de l'inscription comme demandeur d'emploi ou, le cas échéant lorsque la demande intervient en cours
 d'inscription, le premier jour du mois au cours duquel la demande a été déposée.*
 
-### Question 1.11
+### Question 1.11 {#question-1-11}
 
 **Attention à la date anniversaire mobile !**
 
@@ -184,4 +184,139 @@ Particulièrement dans le contexte de la crise sanitaire, cette situation pénal
 
 ## Chapitre 2 : Questions sur les demandes de réexamens anticipés (DREX) et pour les premières ouvertures classiques
 
+### Question 2.1 {#question-2-1}
+
+**Quelles sont les conditions pour demander une demande de réexamen expresse (DREX) ?**
+
+- Les demandes expresses seront techniquement possibles jusqu’au 30 décembre 2021, mais à partir du 16, il faudra faire la demande via un conseiller (téléphone ou mail).
+- La demande expresse se traite informatiquement sur la dernière FCT de la dernière actualisation mensuelle disponible, sous réserve que les justificatifss soient disponibles.
+- MAIS, depuis quelques semaines il y a un accompagnement systématique par Pôle Emploi services pour bien prendre en compte la FCT désirée.
+
+*Exemple : je fais une demande expresse début novembre, je dois obligatoirement attendre d’avoir actualisé mon mois d’octobre par la déclaration mensuelle. J’ai deux fins de contrat (FCT), l’une terminant le 15 octobre et l’autre le 25 octobre, et je souhaite que ne soit pris en compte que le contrat se terminant le 15 octobre : je le spécifie dans mon espace personnel au moment de la DREX ou dans les échanges avec mon conseiller.*
+
+- De toute façon, on peut toujours rectifier la FCT sur réclamation.
+
+- L’accompagnement systématique n’a pas vocation à durer dans le temps, ce qui risque de poser des problèmes à terme.
+
+- Les heures d’enseignement majorées effectuées avant le 31/12/2021 et concourant à l’affiliation seront réputées acquises pour celles et ceux qui en auraient besoin pour sortir des filets de sécurité. Ce qui est certain c’est qu’elles restent acquises pour les allocataires dont l’examen au 1er janvier serait reporté.
+
+- Par contre, pour les heures d’enseignements effectuées après le 1er Janvier 2022, il y a un retour aux règles habituelles.
+
+### Question 2.2 {#question-2-2}
+
+*Comment va évoluer la règle d'allongement de la période de recherche d’affiliation (PRA), dans le cas d'une première demande ou demande expresse en cours de droits, (c’est-à-dire hors de la sortie au 31 décembre 2021 du dispositif "année blanche") ?*
+
+*Pour les demandes suite à des fins de contrats (FCT) postérieures au 30 octobre 2021, Pôle Emploi procède-t-il à un allongement de la PRA correspondant au nombre de jours de la seconde période de restriction sanitaire (30/10/2020 au 30/06/2021) ?*
+
+Les deux périodes de confinement ne sont pas traitées de la même façon :
+
+- le décret du 14 avril 2020 (décret n° 20-425) institue pour le premier confinement du 1er mars au 30 juin 2020 la règle suivante : à partir du moment où la période de
+recherche d’affiliation (PRA) contient au moins un jour de cette période, la PRA est rallongée de 92 jours.
+
+*Exemple : mon dernier contrat de travail du 15 janvier 2021 me permet d’avoir 507 heures sur 12 mois plus 3 mois de confinement. J’ouvre des droits à partir de cette date.*
+
+- le décret du 28 décembre 2020 (décret n° 2020-1716) précise qu’il n’est pris en compte que le nombre de jours correspondant à la partie de cette période de référence comprise. La réponse à la 2ème partie de la question est donc négative. Cela rend les choses plus difficiles pour une première ouverture de droits début 2022.
+
+*Exemple pour une 1ère ouverture de droits en 2021 : je fais une demande sur une fin de contrat au 25 décembre 2021. Pôle Emploi remontera au 22/6/2020 (soit un peu moins de 18 mois), et non jusqu'au 24 janvier 2020, comme il aurait dû si la prise en compte des deux confinements était similaire.*
+ 
+*Exemple 2 : Je fais une demande sur une fin de contrat au 1er mars 2022. Pôle Emploi remontera au 1er novembre 2020 (soit 16 mois - dont 7 mois sans activité possible dans le spectacle) et non jusqu'au 30 juin 2020, si la 2è période de restriction avait été effectivement gelée. En outre, je ne bénéficie plus de la mesure "jeunes" qui se termine au 28/2 : même si j'ai moins de 30 ans, je dois faire 507h.*
+
+### Question 2.3 {#question-2-3}
+
+**Comment procède Pôle Emploi au décompte du nombre de jours situé entre le 30 octobre 2020 et la FCT considérée ?**
+
+Cf. le document de Pôle Emploi [Crise sanitaire : comment sont prises en compte les périodes de confinement ?](https://www.pole-emploi.fr/spectacle/spectacle--intermittents/crise-sanitaire-comment-sont-pri.html)
+
+On peut se référer au [calculateur de droits de Pôle Emploi](https://calculpra.pole-emploi-services.fr)
+
+VOICI CE QUI EST INDIQUÉ SUR LE SITE DE PÔLE EMPLOI :
+
+La durée de cette prolongation varie en fonction de la date de votre fin de contrat de travail (FCT).
+
+- Pour les FCT à compter du 16 avril 2020 jusqu’au 30 mai 2020 : la période de 12 mois est prolongée du nombre de jours calendaires concomitant à la périodedu premier confinement (du 1er mars 2020 au 31 mai 2020).
+
+	*Exemple : Vous faites une première demande suite à une fin de contrat de travail du 13 mai 2020, vos 507 heures seront recherchées dans un délai de 12 mois, auquel est ajoutée la période qui correspond à la date de début du confinement jusqu’à la fin de votre contrat de travail, soit 74 jours (du 1er mars au 13 mai 2020).*
+
+- Pour les FCT à compter du 31 mai 2020 : la période de 12 mois est prolongée du nombre de jours total de la période de confinement, dès lors qu’il y a un jour de confinement dans les 12 mois.
+
+	*Exemple : Vous faites une première demande suite à une fin de contrat de travail du 15 décembre 2020, vos 507 heures seront recherchées dans un délai de 12 mois, auquel est ajoutée la totalité de la période de confinement, soit 92 jours (du 1er mars au 31 mai 2020).*
+
+- Pour les FCT à compter du 30 décembre 2020 (soit le lendemain de la publication du décret du 28 décembre 2020) : la période de 12 mois est égalementprolongée du nombre de jours calendaires concomitant à la période du second confinement (du 30 octobre 2020 au 30 juin 2021).
+
+	*Exemple 1 : Vous faites une première demande suite à une fin de contrat de travail du 15 janvier 2021.
+
+	- Les 507 heures seront recherchées dans un délai de 12 mois soit 365 jours ;
+	- La totalité de la période du 1er confinement est ajoutée, soit 92 jours (du 1er mars au 31 mai 2020) ;
+	- La période qui correspond à la date de début du second confinement jusqu’à la fin de votre contrat de travail est ajoutée, soit 78 jours (du 30 octobre2020 au 15 janvier 2021);
+	- La période de recherche des 507 heures sera donc de 535 jours.*
+
+	*Exemple 2 : Vous faites une première demande suite à une fin de contrat de travail du 15 novembre 2021 ou vous souhaitez déposer une demande anticipée de droits sur cette fin de contrat de travail.
+
+	- Les 507 heures seront recherchées dans un délai de 12 mois, soit 365 jours ;
+	- Les jours calendaires concomitants entre la période du second confinement et la période de recherche initiale sont ajoutés, soit 227 jours (du 16 novembre 2020 au 30 juin2021);
+	- La période du premier confinement est totalement ajoutée dès lors qu’il y a un jour de commun avec la période de recherche allongée, soit 92 jours ;
+	- La période de recherche des 507 heures sera donc fixée entre le 2 janvier 2020 et le 15 novembre 2021, soit un total de 684 jours.*
+
+### Question 2.4 {#question-2-4}
+
+**Dans cette dernière hypothèse (décompte pour les FCT postérieures au 30/10/2021) sur quelle base Pôle Emploi justifie-t-il la différence de traitement des deux périodes de confinement ?**
+
+Rappel du problème posé à la réponse 2.2 :
+
+1er Confinement : Intégration complète dans la PRA du nombre de jours de toute la période dès que la PRA touche d’un jour la période du 1er confinement.
+
+2e confinement : Intégration dans la PRA MAIS avec décompte du nombre de jours situés entre le 30 octobre et la FCT d’origine.
+
+Pôle Emploi applique la règle décidée par le gouvernement, elle est différente dans les 2 décrets du 14 avril 2020 et du 28 décembre 2020.
+
+Exemple : un jeune professionnel qui n’a jamais eu de droits en annexe 8 ou 10, a un dernier contrat au 30 décembre 2021. En remontant jusqu’au 30 décembre 2020, on rallongera sa période d’affiliation de 6 mois (correspondant à la période du 30 décembre 2020 jusqu’au 30 juin 2021) et non pas de 11 mois.
+
+### Question 2.5 {#question-2-5}
+
+**Jusqu’à quelle date de fin de contrat (FCT) le réexamen anticipé (DREX) sera-t-il possible au plus tard en 2021 ?**
+
+Le 30 décembre au plus tard mais :
+
+- Jusqu’au 15 décembre : Demande possible depuis l’espace personnel.
+- À partir du 16 décembre : Demande sur appel ou mail uniquement.
+
+Plusieurs personnes ont été mal renseignées par des opérateurs de Pôle Emploi, qui annonce la date du 28 octobre comme dernière DREX possible : cela est faux.
+
+Cela peut être vrai pour les allocataires du régime général qui ont intérêt à faire une DREX après un dernier contrat finissant en septembre 2021, avant le changement de calcul dû à la réforme scandaleuse du salaire journalier de référence (SJR).
+
+### Question 2.6 {#question-2-6}
+
+**Ai-je intérêt à faire une DREX avant fin 2021 ou à attendre le 31 décembre 2021 ?**
+
+Cela dépend de plusieurs paramètres :
+
+- oui, si vos salaires sont meilleurs qu’avant la crise sanitaire (par exemple passage au poste supérieur) ;
+- oui dans certains cas ; si des périodes de travail anciennes qui ne seraient pas prises en compte dans un renouvellement au 31/12/2021 me permettent d'éviter une baisse des allocations, ou si je souhaite préserver les périodes de travail entre la DREX et la fin 2021 pour une ouverture des droits ultéreure
+- non, si vous n’avez pas beaucoup de perspectives de travail en 2022 : la date anniversaire risque d’intervenir plus tôt en 2022 avant d’avoir les 507 heures.
+
+Par ailleurs Pôle emploi affirme qu’il n’y aura pas de retard dans le traitement des dossiers en janvier 2022 (voir réponse 8.2)
+	
+## Chapitre 3 : Questions sur l’allocation jeune ouvrier, technicien, artiste intermittent (AJI)
+
+### Question 3.1 {#question-3-1}
+
+**Quelles sont les conditions de cette allocation jeune ouvrier, technicien, artiste intermittent (AJI) temporaire ?**
+
+L’AJI fonctionne comme la clause de rattrapage (CDR voir réponse 1.6). À défaut d’avoir 507 heures, il faut :
+
+- Avoir réuni 338 heures de travail ou assimilées.
+- Avoir une dernière fin de contrat (FCT) entre le 1er septembre 2021 et le 28 février 2022
+- Avoir moins de 30 ans lors de la dernière fin de contrat atteignant 338 heures
+- Ne jamais avoir eu d’ouverture de droits en annexe 8 ou 10 dans le passé (Ce qui est scandaleux : l’entrée dans le métier peut avoir été erratique même avant la crise sanitaire.)
+
+Dans certains cas, l’AJI prime sur un droit ARE régime général, sur demande du jeune professionnel, informé par Pôle emploi qui peut ouvrir l’un ou l’autre droit. Un droit d’option est également possible pour abandonner un droit ARE régime général pour le droit AJI.
+
+Le montant de l'allocation est calculée comme un ARE mais avec un nombre d'heures et un total de salaires faible, celui est généralement celui de l’allocation plancher :
+
+- Annexe 8 (technicien·ne) : 38 € par jour
+- Annexe 10 (artiste) : 44 € par jour
+
+Comme pour la clause de rattrapage, il dure 6 mois maximum pendant lesquels il faut atteindre le quota d’heures manquantes pour passer le seuil de 507 heures. L’indemnisation devient une ARE « normale » mais la date anniversaire reste celle de déclenchement de l'AJI, ce qui laisse moins de temps pour atteindre les 507 heures l'année suivante. 
+
+## Chapitre 4 : Questions sur les filets de sécurité
 
