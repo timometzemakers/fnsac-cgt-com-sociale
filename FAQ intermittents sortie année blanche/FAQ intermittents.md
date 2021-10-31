@@ -77,10 +77,10 @@ l'articulation avec les mesures de rattrapage décidées par le gouvernement. En
 2. Si échec du 1, recherche d’un droit ARE A8 ou 10 sur la PRA précédente + allongement exceptionnel par périodes de 30 jours, dans la limite des heures ayant servi à l’ouverture de droits précédente.
 3. Si échec du 2, recherche d’un droit ARE différent (régime général)
 4. En cas d'échec des 1 puis 2 puis 3, deux cas :
-    a. Soit l’allocataire à PLUS de 338h d’affiliation dans le calcul 2 :
+    - Soit l’allocataire à PLUS de 338h d’affiliation dans le calcul 2 :
 		- ouverture de droits « clause de rattrapage aménagée »<sup>1</sup> sur demande expresse.
 		- Attention , si refus (ou non demande) pas d’ouverture possible en APS et orientation éventuelle vers l'allocation spécifique de solidarité (ASS, inaccessible dans la pratique pour les intermittents du spectacle) ou l'allocation fin de droits (AFD, très brève).
-	b. Soit l’allocataire à moins de 338h d’affiliation dans le calcul 2 :
+	- Soit l’allocataire à moins de 338h d’affiliation dans le calcul 2 :
 		- ouverture de droits « APS aménagée » automatique
 
 En temps normal cet ordonnancement fonctionne pour déterminer le meilleur droit. Les arbitrages du gouvernement vont conduire à des absurdités en 2022.
@@ -233,7 +233,7 @@ VOICI CE QUI EST INDIQUÉ SUR LE SITE DE PÔLE EMPLOI :
 
 La durée de cette prolongation varie en fonction de la date de votre fin de contrat de travail (FCT).
 
-- Pour les FCT à compter du 16 avril 2020 jusqu’au 30 mai 2020 : la période de 12 mois est prolongée du nombre de jours calendaires concomitant à la périodedu premier confinement (du 1er mars 2020 au 31 mai 2020).
+- Pour les FCT à compter du 16 avril 2020 jusqu’au 30 mai 2020 : la période de 12 mois est prolongée du nombre de jours calendaires concomitant à la période du premier confinement (du 1er mars 2020 au 31 mai 2020).
 
 	*Exemple : Vous faites une première demande suite à une fin de contrat de travail du 13 mai 2020, vos 507 heures seront recherchées dans un délai de 12 mois, auquel est ajoutée la période qui correspond à la date de début du confinement jusqu’à la fin de votre contrat de travail, soit 74 jours (du 1er mars au 13 mai 2020).*
 
@@ -241,21 +241,21 @@ La durée de cette prolongation varie en fonction de la date de votre fin de con
 
 	*Exemple : Vous faites une première demande suite à une fin de contrat de travail du 15 décembre 2020, vos 507 heures seront recherchées dans un délai de 12 mois, auquel est ajoutée la totalité de la période de confinement, soit 92 jours (du 1er mars au 31 mai 2020).*
 
-- Pour les FCT à compter du 30 décembre 2020 (soit le lendemain de la publication du décret du 28 décembre 2020) : la période de 12 mois est égalementprolongée du nombre de jours calendaires concomitant à la période du second confinement (du 30 octobre 2020 au 30 juin 2021).
+- Pour les FCT à compter du 30 décembre 2020 (soit le lendemain de la publication du décret du 28 décembre 2020) : la période de 12 mois est également prolongée du nombre de jours calendaires concomitant à la période du second confinement (du 30 octobre 2020 au 30 juin 2021).
 
-	*Exemple 1 : Vous faites une première demande suite à une fin de contrat de travail du 15 janvier 2021.
+	*Exemple 1 : Vous faites une première demande suite à une fin de contrat de travail du 15 janvier 2021.*
 
-	- Les 507 heures seront recherchées dans un délai de 12 mois soit 365 jours ;
-	- La totalité de la période du 1er confinement est ajoutée, soit 92 jours (du 1er mars au 31 mai 2020) ;
-	- La période qui correspond à la date de début du second confinement jusqu’à la fin de votre contrat de travail est ajoutée, soit 78 jours (du 30 octobre2020 au 15 janvier 2021);
-	- La période de recherche des 507 heures sera donc de 535 jours.*
+	- *Les 507 heures seront recherchées dans un délai de 12 mois soit 365 jours ;*
+	- *La totalité de la période du 1er confinement est ajoutée, soit 92 jours (du 1er mars au 31 mai 2020) ;*
+	- *La période qui correspond à la date de début du second confinement jusqu’à la fin de votre contrat de travail est ajoutée, soit 78 jours (du 30 octobre2020 au 15 janvier 2021);*
+	- *La période de recherche des 507 heures sera donc de 535 jours.*
 
-	*Exemple 2 : Vous faites une première demande suite à une fin de contrat de travail du 15 novembre 2021 ou vous souhaitez déposer une demande anticipée de droits sur cette fin de contrat de travail.
+	*Exemple 2 : Vous faites une première demande suite à une fin de contrat de travail du 15 novembre 2021 ou vous souhaitez déposer une demande anticipée de droits sur cette fin de contrat de travail.*
 
-	- Les 507 heures seront recherchées dans un délai de 12 mois, soit 365 jours ;
-	- Les jours calendaires concomitants entre la période du second confinement et la période de recherche initiale sont ajoutés, soit 227 jours (du 16 novembre 2020 au 30 juin2021);
-	- La période du premier confinement est totalement ajoutée dès lors qu’il y a un jour de commun avec la période de recherche allongée, soit 92 jours ;
-	- La période de recherche des 507 heures sera donc fixée entre le 2 janvier 2020 et le 15 novembre 2021, soit un total de 684 jours.*
+	- *Les 507 heures seront recherchées dans un délai de 12 mois, soit 365 jours ;*
+	- *Les jours calendaires concomitants entre la période du second confinement et la période de recherche initiale sont ajoutés, soit 227 jours (du 16 novembre 2020 au 30 juin2021);*
+	- *La période du premier confinement est totalement ajoutée dès lors qu’il y a un jour de commun avec la période de recherche allongée, soit 92 jours ;*
+	- *La période de recherche des 507 heures sera donc fixée entre le 2 janvier 2020 et le 15 novembre 2021, soit un total de 684 jours.*
 
 ### Question 2.4
 
@@ -302,7 +302,7 @@ Par ailleurs Pôle emploi affirme qu’il n’y aura pas de retard dans le trait
 
 **Quelles sont les conditions de cette allocation jeune ouvrier, technicien, artiste intermittent (AJI) temporaire ?**
 
-L’AJI fonctionne comme la clause de rattrapage (CDR voir [réponse 1.6](#question16)). À défaut d’avoir 507 heures, il faut :
+L’AJI fonctionne comme la clause de rattrapage (CDR voir [réponse 1.6](#question-16)). À défaut d’avoir 507 heures, il faut :
 
 - Avoir réuni 338 heures de travail ou assimilées.
 - Avoir une dernière fin de contrat (FCT) entre le 1er septembre 2021 et le 28 février 2022
