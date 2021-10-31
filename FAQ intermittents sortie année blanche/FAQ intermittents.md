@@ -112,7 +112,7 @@ En temps normal cet ordonnancement fonctionne pour déterminer le meilleur droit
 
 	L’APS est une subsistance des allocations de solidarité suite aux mesures prises en 2004, après la grande baisse des droits de 2003. L’APS est financée par l’Etat, contrairement à toutes les autres allocations dites allocations de retour à l’emploi (ARE), financées par l’Unédic.
 
-	L’APS ouvre des droits à des allocations en incluant des heures ayant déjà servi avant mars 2020 à une précédente ouverture de droits. Le calcul de l’allocation se fait comme en ARE (cf. réponse 1.1 à 1.3).
+	L’APS ouvre des droits à des allocations en incluant des heures ayant déjà servi avant mars 2020 à une précédente ouverture de droits. Le calcul de l’allocation se fait comme en ARE (cf. réponse [1.1](#question-11) à [1.3](#question-13)).
 
 	L’APS est versée entre le 1er janvier et le 31 décembre 2022, elle cesse d'être versée lorsque les conditions sont réunies pour basculer en ARE.
 	
@@ -132,7 +132,7 @@ Pôle Emploi a publié une foire aux questions, pour tenter d’expliquer les di
 
 **Qu'est-il prévu pour éviter une ouverture de droits minime au régime général, à quelqu'un qui aurait eu droit à la clause de rattrapage ou à l'APS ? Qu’est-il prévu dans le cas où la clause de rattrapage aménagée est moins-disante par rapport à l’APS aménagée ?**
 
-Dans ces deux situations, avoir un peu travaillé (au régime général dans le premier cas, entre 338 et 506 heures dans le spectacle dans le deuxième cas) ouvre un droit moins élevé que si on n’a pas travaillé du tout. C’est le résultat de l’ordonnancement, tel que détaillé à la réponse 1.5.
+Dans ces deux situations, avoir un peu travaillé (au régime général dans le premier cas, entre 338 et 506 heures dans le spectacle dans le deuxième cas) ouvre un droit moins élevé que si on n’a pas travaillé du tout. C’est le résultat de l’ordonnancement, tel que détaillé à la [réponse 1.5](#question-15).
 
 Nous revendiquons la suppression de l'ordonnancement pour que l'allocataire puisse demander l'application du droit le plus favorable dans tous les cas.
 
@@ -142,13 +142,13 @@ Nous revendiquons la suppression de l'ordonnancement pour que l'allocataire puis
 
 **Que va-t-il se passer au 31/12/2021 pour ceux qui touchent actuellement la clause de rattrapage prolongée, et qui n'ont pas atteint les 507h ? Pourront-ils ouvrir des droits en APS ?**
 
-Oui. Pour les conditions de l’APS, voir réponse 1.6.
+Oui. Pour les conditions de l’APS, voir [réponse 1.6](#question-16).
 
 ### Question 1.10
 
-**Le délai de forclusion étant allongé des jours de restrictions, une personne devrait pouvoir ouvrir des droits tant qu'elle a eu une fin de contrat dans les 23 mois précédant le 31/12/2021, avec date anniversaire plancher au 30/4/2022. Mais d'après l'article 7 du décret du 14 avril 2020, cet allongement est amputé des jours de travail.
+**Le délai de forclusion étant allongé des jours de restrictions, une personne devrait pouvoir ouvrir des droits tant qu'elle a eu une fin de contrat dans les 23 mois précédant le 31/12/2021, avec date anniversaire plancher au 30/4/2022. Mais d'après l'article 7 du décret du 14 avril 2020, cet allongement est amputé des jours de travail.**
 
-Que se passe-t-il alors pour une personne sous contrat pendant les restrictions (par exemple un enseignant de la musique) et qui n’aurait pas eu de contrat de travail intermittent en 2021 ?**
+**Que se passe-t-il alors pour une personne sous contrat pendant les restrictions (par exemple un enseignant de la musique) et qui n’aurait pas eu de contrat de travail intermittent en 2021 ?**
 
 Le délai de forclusion n’est opposé aux allocataires que sur l’inscription.
 
@@ -261,7 +261,7 @@ La durée de cette prolongation varie en fonction de la date de votre fin de con
 
 **Dans cette dernière hypothèse (décompte pour les FCT postérieures au 30/10/2021) sur quelle base Pôle Emploi justifie-t-il la différence de traitement des deux périodes de confinement ?**
 
-Rappel du problème posé à la réponse 2.2 :
+Rappel du problème posé à la [réponse 2.2](#question-22) :
 
 1er Confinement : Intégration complète dans la PRA du nombre de jours de toute la période dès que la PRA touche d’un jour la période du 1er confinement.
 
@@ -302,7 +302,7 @@ Par ailleurs Pôle emploi affirme qu’il n’y aura pas de retard dans le trait
 
 **Quelles sont les conditions de cette allocation jeune ouvrier, technicien, artiste intermittent (AJI) temporaire ?**
 
-L’AJI fonctionne comme la clause de rattrapage (CDR voir réponse 1.6). À défaut d’avoir 507 heures, il faut :
+L’AJI fonctionne comme la clause de rattrapage (CDR voir [réponse 1.6](#question16)). À défaut d’avoir 507 heures, il faut :
 
 - Avoir réuni 338 heures de travail ou assimilées.
 - Avoir une dernière fin de contrat (FCT) entre le 1er septembre 2021 et le 28 février 2022
@@ -318,5 +318,4 @@ Le montant de l'allocation est calculée comme un ARE mais avec un nombre d'heur
 
 Comme pour la clause de rattrapage, il dure 6 mois maximum pendant lesquels il faut atteindre le quota d’heures manquantes pour passer le seuil de 507 heures. L’indemnisation devient une ARE « normale » mais la date anniversaire reste celle de déclenchement de l'AJI, ce qui laisse moins de temps pour atteindre les 507 heures l'année suivante. 
 
-## Chapitre 4 : Questions sur les filets de sécurité
 
