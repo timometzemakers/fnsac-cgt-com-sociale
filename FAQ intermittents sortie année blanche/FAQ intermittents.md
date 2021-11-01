@@ -70,7 +70,7 @@ La nouvelle date anniversaire sera dans tous les cas fixée à la fin du dernier
 4. Clause de rattrapage "aménagée" si au moins 338h entre dernière FCT et renouvellement précédent (sur demande)
 5. En cas de notification d’échec de l'examen selon les critères 1,2&3, et uniquement si on ne trouve pas un autre droit ARE (régime général par exemple) allocation de professionnalisation et de solidarité (APS).
 
-En temps normal hors Covid, un **ordonnancement** d'examen des droits existe. Il est justifié en "temps normal" mais il est absurde dans 
+En temps normal hors Covid, un **ordonnancement** d'examen des droits existe. Il est justifié en "temps normal" mais il est absurde dans
 l'articulation avec les mesures de rattrapage décidées par le gouvernement. En effet, cet **ordonnancement** est le suivant :
 
 1. Recherche d’un droit ARE A8 ou 10 sur une PRA de 12 mois précédant la dernière FCT
@@ -115,7 +115,7 @@ En temps normal cet ordonnancement fonctionne pour déterminer le meilleur droit
 	L’APS ouvre des droits à des allocations en incluant des heures ayant déjà servi avant mars 2020 à une précédente ouverture de droits. Le calcul de l’allocation se fait comme en ARE (cf. réponse [1.1](#question-11) à [1.3](#question-13)).
 
 	L’APS est versée entre le 1er janvier et le 31 décembre 2022, elle cesse d'être versée lorsque les conditions sont réunies pour basculer en ARE.
-	
+
 ### Question 1.7
 
 **Focus sur le point n°9 de l’article [Année blanche, prolongation des droits et réadmission : tout comprendre en 10 questions](https://www.pole-emploi.fr/spectacle/spectacle--intermittents/intermittents-du-spectacle--lall.html), qui dit qu’on ne peut bénéficier de la clause de rattrapage si l’on a un droit au régime général.**
@@ -204,9 +204,9 @@ Particulièrement dans le contexte de la crise sanitaire, cette situation pénal
 
 ### Question 2.2
 
-*Comment va évoluer la règle d'allongement de la période de recherche d’affiliation (PRA), dans le cas d'une première demande ou demande expresse en cours de droits, (c’est-à-dire hors de la sortie au 31 décembre 2021 du dispositif "année blanche") ?*
+**Comment va évoluer la règle d'allongement de la période de recherche d’affiliation (PRA), dans le cas d'une première demande ou demande expresse en cours de droits, (c’est-à-dire hors de la sortie au 31 décembre 2021 du dispositif "année blanche") ?**
 
-*Pour les demandes suite à des fins de contrats (FCT) postérieures au 30 octobre 2021, Pôle Emploi procède-t-il à un allongement de la PRA correspondant au nombre de jours de la seconde période de restriction sanitaire (30/10/2020 au 30/06/2021) ?*
+**Pour les demandes suite à des fins de contrats (FCT) postérieures au 30 octobre 2021, Pôle Emploi procède-t-il à un allongement de la PRA correspondant au nombre de jours de la seconde période de restriction sanitaire (30/10/2020 au 30/06/2021) ?**
 
 Les deux périodes de confinement ne sont pas traitées de la même façon :
 
@@ -218,7 +218,7 @@ recherche d’affiliation (PRA) contient au moins un jour de cette période, la 
 - le décret du 28 décembre 2020 (décret n° 2020-1716) précise qu’il n’est pris en compte que le nombre de jours correspondant à la partie de cette période de référence comprise. La réponse à la 2ème partie de la question est donc négative. Cela rend les choses plus difficiles pour une première ouverture de droits début 2022.
 
 *Exemple pour une 1ère ouverture de droits en 2021 : je fais une demande sur une fin de contrat au 25 décembre 2021. Pôle Emploi remontera au 22/6/2020 (soit un peu moins de 18 mois), et non jusqu'au 24 janvier 2020, comme il aurait dû si la prise en compte des deux confinements était similaire.*
- 
+
 *Exemple 2 : Je fais une demande sur une fin de contrat au 1er mars 2022. Pôle Emploi remontera au 1er novembre 2020 (soit 16 mois - dont 7 mois sans activité possible dans le spectacle) et non jusqu'au 30 juin 2020, si la 2è période de restriction avait été effectivement gelée. En outre, je ne bénéficie plus de la mesure "jeunes" qui se termine au 28/2 : même si j'ai moins de 30 ans, je dois faire 507h.*
 
 ### Question 2.3
@@ -295,7 +295,7 @@ Cela dépend de plusieurs paramètres :
 - non, si vous n’avez pas beaucoup de perspectives de travail en 2022 : la date anniversaire risque d’intervenir plus tôt en 2022 avant d’avoir les 507 heures.
 
 Par ailleurs Pôle emploi affirme qu’il n’y aura pas de retard dans le traitement des dossiers en janvier 2022 (voir réponse 8.2)
-	
+
 ## Chapitre 3 : Questions sur l’allocation jeune ouvrier, technicien, artiste intermittent (AJI)
 
 ### Question 3.1
@@ -316,6 +316,145 @@ Le montant de l'allocation est calculée comme un ARE mais avec un nombre d'heur
 - Annexe 8 (technicien·ne) : 38 € par jour
 - Annexe 10 (artiste) : 44 € par jour
 
-Comme pour la clause de rattrapage, il dure 6 mois maximum pendant lesquels il faut atteindre le quota d’heures manquantes pour passer le seuil de 507 heures. L’indemnisation devient une ARE « normale » mais la date anniversaire reste celle de déclenchement de l'AJI, ce qui laisse moins de temps pour atteindre les 507 heures l'année suivante. 
+Comme pour la clause de rattrapage, il dure 6 mois maximum pendant lesquels il faut atteindre le quota d’heures manquantes pour passer le seuil de 507 heures. L’indemnisation devient une ARE « normale » mais la date anniversaire reste celle de déclenchement de l'AJI, ce qui laisse moins de temps pour atteindre les 507 heures l'année suivante.
 
+### Question 3.2
 
+**Pendant combien de temps sera accessible l’allocation « jeune intermittent » (AJI) ?**
+
+L'AJI est temporaire: non seulement il faut remplir les conditions avec une fin de contrat (FCT) entre le 1er septembre 2021 et le 28 février 2022, mais la date limite pour déposer les demandes est le mois de mars qui suit le 28 février.
+
+Nous avons demandé une alerte information par mail de Pôle Emploi à tous les moins de 30 ans ayant une date de travail dans le spectacle dans ces périodes.
+
+Concernant la période de recherche d'affiliation (PRA), voir également la [réponse à 4.5](#question-45).
+
+### Question 3.3
+
+**Comment fonctionne l'assimilation des heures d'enseignement données pour l'ouverture des droits "jeune intermittent" à 338h ?**
+
+Elles sont prises en compte à raison de 140 heures maximum jusqu'au 31 décembre 2021 et de 70 heures entre le 1er janvier 2022 et le 28 février 2022.
+
+Dans de très rares cas (de CPF de transition notamment), les heures de formations suivies peuvent être assimilées à hauteur de 226 heures maximum.
+
+## Chapitre 4 : Questions sur les filets de sécurité
+
+### Question 4.1
+
+**En cas d’ouverture de droits clause de rattrapage, la date retenue, tant pour le début du versement de l’allocation que, en cas de bascule vers une ARE classique est bien le 1er Janvier 2022, et non au lendemain de la dernière FCT précédant le 01/01/2022 ? Par extension, la date de fin de ce droit est-elle bien le 30 juin 2022 ?**
+
+Oui.
+
+### Question 4.2
+
+**En cas d'ouverture de droits APS, quelle sera la date de fin de ces droits ?**
+
+Le 1er janvier 2023, sauf si les conditions de l'ARE sont réunies avant cette date (cf. [question 4.5](#question-45)), auquel cas on rebascule immédiatement en ARE classique.
+
+### Question 4.3
+
+**Sur quelle période de recherche d’affiliation (PRA) sera regardée la présence des 507h permettant de sortir de la clause de rattrapage aménagée ?**
+
+**Exemple : une personne ayant réalisé́ 400h au 31/12/2021 dont 200h sur l'année 2021 et les autres en 2019-2020 devra-t-elle faire seulement 107h avant le 30/6/2022 ?**
+
+Sur les 12 mois précédant la FCT, allongée de toute la période de recherche des heures ayant permis l’ouverture de la clause de rattrapage (c’est-à-dire en remontant jusqu’à l’ouverture de droits précédente).
+
+Dans l’exemple, la réponse est : uniquement 107 heures à faire avant le 30/06/2022.
+
+### Question 4.4
+
+**Même question pour l'allocation "jeune intermittent" : sur quelle PRA sera regardée la présence des 507h permettant de basculer de l’allocation "jeune intermittent" à l’ARE classique ?**
+
+**Prenons le cas de quelqu'un qui ouvre des droits le 1/10/2021 avec 400h dont seulement 200 sur l'année précédente, et 138 de plus grâce à l'allongement de la PRA. A-t-il bien seulement 107h à faire en 6 mois pour ouvrir de nouveaux droits ?**
+
+Pour sortir de la CDR ou de l’AJI, il faut avoir complété les heures manquantes entre 338 heures et 507 heures dans les 6 mois.
+
+Dans l’exemple proposé, la réponse est : uniquement 107 heures à faire en 6 mois.
+
+### Question 4.5
+
+**Même question pour la sortie de l’APS aménagée : sur quelle PRA sera regardée la présence des 507h permettant de basculer en ARE classique ?**
+
+Pour sortir de l’APS les conditions sont les mêmes que le renouvellement ou ARE : 507 heures sur 12 mois (sur l’année 2022 exactement).
+
+### Question 4.6
+
+**Pour le retour en ARE classique, depuis l’ARE "jeune intermittent" (AJI), la clause de rattrapage aménagée ou l’APS aménagée, combien d'heures d'enseignement pourront être assimilées au maximum ?**
+
+Retour aux règles normales pour la prise en compte des heures d’enseignements données en 2022 :
+- 70 heures pour les moins de 50 ans
+- 120 heures pour les plus de 50 ans
+
+## Chapitre 5 : Questions sur le maintien de droits après 62 ans
+
+### Question 5.1
+
+**Le maintien des droits après 62 ans est-il accessible aux allocataires bénéficiant d’un des "filets de sécurité́" suivants, au moment de leur anniversaire ?**
+
+- **Clause de rattrapage "classique" ;**
+- **APS "classique" ;**
+- **ASS ;**
+- **Clause de rattrapage "aménagée" ;**
+- **APS "aménagée" ;**
+- **AFD**
+
+Non.  Le maintien des droits est réservé aux allocataires de l'ARE.
+
+### Question 5.2
+
+**Des aménagements sont-ils prévus pour neutraliser les périodes de restrictions sanitaires ?**
+
+Non le gouvernement n'a rien prévu.
+
+Nous revendiquons un traitement égal pour les allocataires de 62 ans sortant d’une ARE comme d’une CDR ou d’une APS.
+
+## Chapitre 6 : Questions sur les congés maternité / arrêts maladie
+
+### Question 6.1
+
+**Que se passe-t-il pour les personnes bénéficiant du dispositif "année blanche" et qui, à la date du 1er janvier 2022, seront en congé maternité ou en arrêt maladie ?**
+
+**Bénéficieront-elles des mêmes conditions de réexamen aménagé à la fin de leur congé ? Si oui, jusqu’à quelle date ?**
+
+Le cas est prévu jusqu’au 30 avril 2022. Après cette date, la réglementation antérieure s’appliquera à nouveau.
+
+*Exemple 1 : Je suis en congé maternité du 15 décembre 2021 au 15 avril 2022. A l'issue du congé maternité, Pôle Emploi recherche la FCT la plus proche: soit un contrat juste à la reprise, alors la date anniversaire est au lendemain de cette FCT. Soit ce qui sera le cas le plus fréquent, Pôle Emploi remonte à la dernière FCT en 2021 avant le congé. Dans ces deux cas, l'allocataire bénéficie des règles aménagées en sortie d'année blanche (PRA rallongée, etc).*
+
+*Exemple 2 : je suis en congé maternité pour une grossesse multiple du 15 décembre 2021 au 20 août 2022, donc après le 30 avril 2022. Mes droits ARE seront calculés à partir de mon dernier contrat antérieur au 15 décembre 2021. Dans ce cas, les jours de congé maternité sont inclus dans la période de recherche de mon futur droit ARE, assimilés à une période de travail à raison de 5 heures par jour. L'examen se situant APRES le 30 avril 2022, il n'y a bénéfice des mesures exceptionnelles (PRA rallongée, etc).*
+
+### Question 6.2
+
+**Si oui : leur sera-t-il nécessaire de faire état d’un jour de travail postérieur à leur fin de congé/arrêt pour déclencher le réexamen ?**
+
+Non, dans la limite du 30 avril 2022 (cf. les exemples de la [réponse 6.1](#question-61).)
+
+### Question 6.3
+
+**Si non : comment sera fixé le point de départ de l’examen ? Cette date sera-t-elle la nouvelle date anniversaire ? Dans ce cas, la période d’arrêt ou de congé pourra-t-elle être prise en compte pour la prochaine réouverture ?**
+
+Pour tous les arrêts se finissant après le 30 avril 2022, on fixera l’examen de droit à la dernière FCT avant le 31 décembre 2021 (cf. exemple de la [question/réponse 6.1](#question-61).)
+
+## Chapitre 7 : Congés paternité
+
+### Question 7.1
+
+**Quelle prise en compte des périodes de congé paternité ?**
+
+Depuis le 1er juillet 2021, le congé paternité est fixé à 30 jours dont 4 jours obligatoires après la naissance. Par contre, contrairement aux arrêts maternité, les jours d'arrêt paternité ne sont pas assimilés à des périodes de travail.
+
+Le seul aménagement est de rallonger la période de recherche d’affiliation (PRA) de la durée du congé paternité, comme pour un arrêt maladie. Nous revendiquons l’assimilation des jours de congé paternité comme des jours de congé maternité à raison de 5 heures par jour. Cela favorisera la prise des congés paternité et fera progresser le partage des tâches d’éducation des enfants et donc de l’égalité femmes/hommes.
+
+## Chapitre 8 : Questions pratiques
+
+### Question 8.1
+
+**Pôle Emploi a-t-il évalué́ le nombre de personnes dont les droits seront examinés le 1er janvier 2022 ?**
+
+Pas encore, mais ce sera une majorité des ressortissants des annexes 8 et 10.
+
+### Question 8.2
+
+**Y a-t-il des moyens supplémentaires mis en place pour le traitement exceptionnellement nombreux de dossiers ?**
+
+Pôle Emploi estime avoir bien anticipé l’afflux de demandes.
+
+La CGT a fait part de nos nombreuses inquiétudes sur le possible embouteillage du mois de janvier.
