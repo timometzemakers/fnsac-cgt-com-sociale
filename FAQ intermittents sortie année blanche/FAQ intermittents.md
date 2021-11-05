@@ -9,7 +9,7 @@ Oui.
 
 Heures d'enseignement (formation donnée) à raison de 140 heures pour les moins de 50 ans et 170 heures pour les plus de 50 ans.
 
-Heures de congé maternité et congé maladie (seulement en affection de longue durée ALD, ou de plus de 3 mois) à raison de 5 heures par jour.
+Heures de congé maternité, congé accueil de l'enfant (adoption), congé maladie (seulement en affection de longue durée ALD, ou de plus de 3 mois), accident du travail, à raison de 5 heures par jour.
 
 
 ### Question 1.2
@@ -17,7 +17,7 @@ Heures de congé maternité et congé maladie (seulement en affection de longue 
 
 Si les 507 heures ne sont pas totalisées sur 12 mois, Pôle Emploi recherchera de mois en mois le nombre d'heures manquant pour atteindre le seuil de 507 heures.
 
-Exemple : mon dernier contrat est le 15 décembre 2021, en remontant sur 12 mois je n'ai que 500 heures. Pôle Emploi rallonge d'un mois la période et inclut un contrat de 8 heures effectué le 20 novembre 2020, soit 507 heures sur 13 mois.
+*Exemple : mon dernier contrat est le 15 décembre 2021, en remontant sur 12 mois je n'ai que 500 heures. Pôle Emploi rallonge d'un mois la période et inclut un contrat de 8 heures effectué le 20 novembre 2020, soit 507 heures sur 13 mois.*
 
 ### Question 1.3
 **Dans le cas où Pôle Emploi remonte par période de 30 jours, doit-on comprendre que tous les
@@ -25,22 +25,17 @@ contrats (et/ou périodes assimilés) qui se terminent dans la période des 30 j
 pris en compte, tant en heures qu’en salaire ?**
 
 
-Non. Le choix fait par le gouvernement consiste à ne prendre strictement que 507 heures. Cela signifie même que le calcul de l'allocation sera proratisé
-comme si 507 heures "tout juste" avaient été effectuées.
+Non. Le choix fait par le gouvernement consiste à ne prendre strictement que 507 heures. Cela signifie même que le calcul de l'allocation sera proratisé comme si 507 heures "tout juste" avaient été effectuées.
 
-Dans les faits, cela ramène la majeure partie des allocations à l'allocation plancher (38€ bruts pour les technicien·ne·s en annexe 8 et 44€ bruts pour les
-artistes en annexe 10).
+Dans les faits, cela ramène la majeure partie des allocations à l'allocation plancher (38€ bruts pour les technicien·ne·s en annexe 8 et 44€ bruts pour les artistes en annexe 10).
 
-Dans la pratique, Pôle Emploi a construit une usine à gaz pour calculer ce prorata. On vous épargne pour le moment les 5 pages d'explications détaillées. Il faut
-se rappeler que l'allocation journalière est basée sur une formule AJ = A + B + C .
-A est une partie en fonction des salaires, B en fonction des heures déclarées et C une partie fixe. La partie A sera calculée sur un prorata des salaires ramené à
-507 heures. B sera calculée au plafond de 507 heures.
+Dans la pratique, Pôle Emploi a construit une usine à gaz pour calculer ce prorata. On vous épargne pour le moment les 5 pages d'explications détaillées. Il faut se rappeler que l'allocation journalière est basée sur une formule AJ = A + B + C.
+
+A est une partie en fonction des salaires, B en fonction des heures déclarées et C une partie fixe. La partie A sera calculée sur un prorata des salaires ramené à 507 heures. B sera calculée au plafond de 507 heures.
 
 Les franchises sont elles aussi limitées à celles correspondant à 507 heures.
 
-*Exemple : n'ayant pas détecté 507 heures sur 12 mois, Pôle Emploi a trouvé 540 heures sur 13 mois. Le total de mes salaires aboutit à un salaire annuel
-de référence, SAR = 11500€ pour 540 heures de travail. Soit environ (507 / 540 ) x 11500 = 10797. Le droit sera déterminé en fonction de ce salaire reconstitué et
-de 507 heures.*
+*Exemple : n'ayant pas détecté 507 heures sur 12 mois, Pôle Emploi a trouvé 540 heures sur 13 mois. Le total de mes salaires aboutit à un salaire annuel de référence, SAR = 11500€ pour 540 heures de travail. Soit environ (507 / 540 ) x 11500 = 10797. Le droit sera déterminé en fonction de ce salaire reconstitué et de 507 heures.*
 
 ### Question 1.4
 
@@ -70,8 +65,7 @@ La nouvelle date anniversaire sera dans tous les cas fixée à la fin du dernier
 4. Clause de rattrapage "aménagée" si au moins 338h entre dernière FCT et renouvellement précédent (sur demande)
 5. En cas de notification d’échec de l'examen selon les critères 1,2&3, et uniquement si on ne trouve pas un autre droit ARE (régime général par exemple) allocation de professionnalisation et de solidarité (APS).
 
-En temps normal hors Covid, un **ordonnancement** d'examen des droits existe. Il est justifié en "temps normal" mais il est absurde dans
-l'articulation avec les mesures de rattrapage décidées par le gouvernement. En effet, cet **ordonnancement** est le suivant :
+En temps normal hors Covid, un **ordonnancement** d'examen des droits existe. Il est justifié en "temps normal" mais il est absurde dans l'articulation avec les mesures de rattrapage décidées par le gouvernement. En effet, cet **ordonnancement** est le suivant :
 
 1. Recherche d’un droit ARE A8 ou 10 sur une PRA de 12 mois précédant la dernière FCT
 2. Si échec du 1, recherche d’un droit ARE A8 ou 10 sur la PRA précédente + allongement exceptionnel par périodes de 30 jours, dans la limite des heures ayant servi à l’ouverture de droits précédente.
@@ -79,7 +73,7 @@ l'articulation avec les mesures de rattrapage décidées par le gouvernement. En
 4. En cas d'échec des 1 puis 2 puis 3, deux cas :
     - Soit l’allocataire a PLUS de 338h d’affiliation dans le calcul 2 :
 		- ouverture de droits « clause de rattrapage aménagée »<sup>1</sup> sur demande expresse.
-		- Attention , si refus (ou non demande) pas d’ouverture possible en APS et orientation éventuelle vers l'allocation spécifique de solidarité (ASS, inaccessible dans la pratique pour les intermittents du spectacle) ou l'allocation fin de droits (AFD, très brève).
+		- Attention, si refus (ou non demande) pas d’ouverture possible en APS et orientation éventuelle vers l'allocation spécifique de solidarité (ASS, inaccessible dans la pratique pour les intermittents du spectacle) ou l'allocation fin de droits (AFD, très brève).
 	- Soit l’allocataire a moins de 338h d’affiliation dans le calcul 2 :
 		- ouverture de droits « APS aménagée » automatique
 
@@ -102,7 +96,7 @@ En temps normal cet ordonnancement fonctionne pour déterminer le meilleur droit
 	- avoir eu 5 ouvertures de droits en annexes 8 /10 dans les 10 dernières années;
 	- ne pas avoir bénéficié de la clause de rattrapage au cours des années précédentes.
 
-	Parmi les mesures exceptionnelles prises par le gouvernement suite au rapport Gauron, les deux dernières conditions sont levées en sortie d’année blanche. De plus, les 338 heures sont recherchées sur 12 mois puis sur des périodes rallongées, incluant si elles existent, des heures d'enseignement (140 pour les moins de 50 ans , 170 pour les plus de 50 ans).
+	Parmi les mesures exceptionnelles prises par le gouvernement suite au rapport Gauron, les deux dernières conditions sont levées en sortie d’année blanche. De plus, les 338 heures sont recherchées sur 12 mois puis sur des périodes rallongées, incluant si elles existent, des heures d'enseignement (140 pour les moins de 50 ans, 170 pour les plus de 50 ans).
 
 	Attention, ouvrir des droits à la clause de rattrapage est limité à 6 mois maximum, pendant lesquels il faut travailler les heures manquantes (pour atteindre 507) afin d'ouvrir 6 mois supplémentaires. Attention : après le 1er janvier 2022, le nombre d'heures d'enseignement prises en compte retombe aux limites d'avant les mesures exceptionnelles (70h avant 50 ans, 120 après 50 ans). La nouvelle date anniversaire est donc fisée au déclenchement de la clause de rattrapage, donc au 31 décembre 2022, ce qui laisse moins de temps pour "faire ses heures" l'année suivante.
 
@@ -122,7 +116,7 @@ En temps normal cet ordonnancement fonctionne pour déterminer le meilleur droit
 
 **ATTENTION DANGER !**
 
-Pôle Emploi a publié une foire aux questions, pour tenter d’expliquer les différentes situations. Comme nous l’expliquons à la question 1.5, les droits sont étudiés selon un ordonnancement utile en temps normal mais qui va générer des absurdités. Ainsi on peut avoir un droit au régime général très minime, si on ne rentre pas dans les premiers cas (507 heures en annexes 8 et 10, en 12 mois ou avec la règle du rallongement de mois en mois). Ce droit prime sur un droit en clause de rattrapage ou un droit en APS.
+Pôle Emploi a publié une foire aux questions, pour tenter d’expliquer les différentes situations. Comme nous l’expliquons [à la question 1.5](#question-15), les droits sont étudiés selon un ordonnancement utile en temps normal mais qui va générer des absurdités. Ainsi on peut avoir un droit au régime général très minime, si on ne rentre pas dans les premiers cas (507 heures en annexes 8 et 10, en 12 mois ou avec la règle du rallongement de mois en mois). Ce droit prime sur un droit en clause de rattrapage ou un droit en APS.
 
 *Exemple 1 : je suis musicien mais aussi enseignant remplaçant en conservatoire. Pendant la crise, je n’ai pas atteint 507 heures de travail dans le spectacle. Par contre, j’ai effectué un CDD de remplacement de 6 mois dans un conservatoire à raison de 2 heures par semaine. Pôle Emploi va m’ouvrir un droit au régime général sur la base de ce CDD : 6 mois d’allocations calculées sur un salaire très faible. Sans ce CDD, je pouvais basculer en clause de rattrapage ou en APS.*
 
@@ -154,12 +148,9 @@ Le délai de forclusion n’est opposé aux allocataires que sur l’inscription
 
 Jamais sur la recherche d’une FCT, pour un.e professionnel.le déjà affilié.e.
 
-L’article 7 § 1er des annexes 8 et 10 précise le délai dans lequel il faut justifier d’une fin de contrat de travail pour bénéficier
-d’une ouverture de droits.
+L’article 7 § 1er des annexes 8 et 10 précise le délai dans lequel il faut justifier d’une fin de contrat de travail pour bénéficier d’une ouverture de droits.
 
-*La fin du contrat de travail prise en considération pour l'ouverture des droits se situe dans un délai de douze mois dont le
-terme est la veille de l'inscription comme demandeur d'emploi ou, le cas échéant lorsque la demande intervient en cours
-d'inscription, le premier jour du mois au cours duquel la demande a été déposée.*
+*La fin du contrat de travail prise en considération pour l'ouverture des droits se situe dans un délai de douze mois dont le terme est la veille de l'inscription comme demandeur d'emploi ou, le cas échéant lorsque la demande intervient en cours d'inscription, le premier jour du mois au cours duquel la demande a été déposée.*
 
 ### Question 1.11
 
@@ -189,7 +180,7 @@ Particulièrement dans le contexte de la crise sanitaire, cette situation pénal
 **Quelles sont les conditions pour demander une demande de réexamen expresse (DREX) ?**
 
 - Les demandes expresses seront techniquement possibles jusqu’au 30 décembre 2021, mais à partir du 16, il faudra faire la demande via un conseiller (téléphone ou mail).
-- La demande expresse se traite informatiquement sur la dernière FCT de la dernière actualisation mensuelle disponible, sous réserve que les justificatifss soient disponibles.
+- La demande expresse se traite informatiquement sur la dernière FCT de la dernière actualisation mensuelle disponible, sous réserve que les justificatifs soient disponibles.
 - MAIS, depuis quelques semaines il y a un accompagnement systématique par Pôle Emploi services pour bien prendre en compte la FCT désirée.
 
 *Exemple : je fais une demande expresse début novembre, je dois obligatoirement attendre d’avoir actualisé mon mois d’octobre par la déclaration mensuelle. J’ai deux fins de contrat (FCT), l’une terminant le 15 octobre et l’autre le 25 octobre, et je souhaite que ne soit pris en compte que le contrat se terminant le 15 octobre : je le spécifie dans mon espace personnel au moment de la DREX ou dans les échanges avec mon conseiller.*
@@ -200,7 +191,7 @@ Particulièrement dans le contexte de la crise sanitaire, cette situation pénal
 
 - Les heures d’enseignement majorées effectuées avant le 31/12/2021 et concourant à l’affiliation seront réputées acquises pour celles et ceux qui en auraient besoin pour sortir des filets de sécurité. Ce qui est certain c’est qu’elles restent acquises pour les allocataires dont l’examen au 1er janvier serait reporté.
 
-- Par contre, pour les heures d’enseignements effectuées après le 1er Janvier 2022, il y a un retour aux règles habituelles.
+- Par contre, pour les heures d’enseignement effectuées après le 1er janvier 2022, il y a un retour aux règles habituelles.
 
 ### Question 2.2
 
@@ -267,7 +258,7 @@ Rappel du problème posé à la [réponse 2.2](#question-22) :
 
 2e confinement : Intégration dans la PRA MAIS avec décompte du nombre de jours situés entre le 30 octobre et la FCT d’origine.
 
-Pôle Emploi applique la règle décidée par le gouvernement, elle est différente dans les 2 décrets du 14 avril 2020 et du 28 décembre 2020.
+**Pôle Emploi applique la règle décidée par le gouvernement**, elle est différente dans les 2 décrets du 14 avril 2020 et du 28 décembre 2020.  Nous revendiquons une application permettant de neutraliser entièrement le deuxième confinement à l'instar du premier.
 
 Exemple : un jeune professionnel qui n’a jamais eu de droits en annexe 8 ou 10, a un dernier contrat au 30 décembre 2021. En remontant jusqu’au 30 décembre 2020, on rallongera sa période d’affiliation de 6 mois (correspondant à la période du 30 décembre 2020 jusqu’au 30 juin 2021) et non pas de 11 mois.
 
@@ -311,7 +302,7 @@ L’AJI fonctionne comme la clause de rattrapage (CDR voir [réponse 1.6](#quest
 
 Dans certains cas, l’AJI prime sur un droit ARE régime général, sur demande du jeune professionnel, informé par Pôle emploi qui peut ouvrir l’un ou l’autre droit. Un droit d’option est également possible pour abandonner un droit ARE régime général pour le droit AJI.
 
-Le montant de l'allocation est calculée comme un ARE mais avec un nombre d'heures et un total de salaires faible, celui est généralement celui de l’allocation plancher :
+Le montant de l'allocation est celui de l’allocation plancher (montant brut, dont il faut déduire la cotisation retraite complémentaire) :
 
 - Annexe 8 (technicien·ne) : 38 € par jour
 - Annexe 10 (artiste) : 44 € par jour
@@ -374,15 +365,15 @@ Dans l’exemple proposé, la réponse est : uniquement 107 heures à faire en 6
 
 **Même question pour la sortie de l’APS aménagée : sur quelle PRA sera regardée la présence des 507h permettant de basculer en ARE classique ?**
 
-Pour sortir de l’APS les conditions sont les mêmes que le renouvellement ou ARE : 507 heures sur 12 mois (sur l’année 2022 exactement).
+Pour sortir de l’APS les conditions sont les mêmes que le renouvellement ou ARE : 507 heures sur 12 mois (éventuellement allongées des périodes de restriction).
 
 ### Question 4.6
 
 **Pour le retour en ARE classique, depuis l’ARE "jeune intermittent" (AJI), la clause de rattrapage aménagée ou l’APS aménagée, combien d'heures d'enseignement pourront être assimilées au maximum ?**
 
 Retour aux règles normales pour la prise en compte des heures d’enseignements données en 2022 :
-- 70 heures pour les moins de 50 ans
-- 120 heures pour les plus de 50 ans
+- 70 heures pour les moins de 50 ans (contre 140 en mesure exceptionnelle)
+- 120 heures pour les plus de 50 ans (contre 170 en mesure exceptionnelle)
 
 ## Chapitre 5 : Questions sur le maintien de droits après 62 ans
 
@@ -441,7 +432,9 @@ Pour tous les arrêts se finissant après le 30 avril 2022, on fixera l’examen
 
 Depuis le 1er juillet 2021, le congé paternité est fixé à 30 jours dont 4 jours obligatoires après la naissance. Par contre, contrairement aux arrêts maternité, les jours d'arrêt paternité ne sont pas assimilés à des périodes de travail.
 
-Le seul aménagement est de rallonger la période de recherche d’affiliation (PRA) de la durée du congé paternité, comme pour un arrêt maladie. Nous revendiquons l’assimilation des jours de congé paternité comme des jours de congé maternité à raison de 5 heures par jour. Cela favorisera la prise des congés paternité et fera progresser le partage des tâches d’éducation des enfants et donc de l’égalité femmes/hommes.
+Le seul aménagement est de rallonger la période de recherche d’affiliation (PRA) de la durée du congé paternité, comme pour un arrêt maladie.
+
+Nous revendiquons l’assimilation des jours de congé paternité comme des jours de congé maternité à raison de 5 heures par jour. Cela favorisera la prise des congés paternité et fera progresser le partage des tâches d’éducation des enfants et donc de l’égalité femmes/hommes.
 
 ## Chapitre 8 : Questions pratiques
 
